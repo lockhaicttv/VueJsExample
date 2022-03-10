@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  .card {
+    flex-basis: 100px;
+    margin: 2px;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+}

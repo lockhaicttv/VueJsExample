@@ -1,0 +1,15 @@
+.news {
+  background-color: #f9f9fa;
+  border: solid 1px #ebebeb;
+  margin-top: 0;
+  .list {
+    padding: 20px;
+    .newsItem {
+      display: block;
+      width: 100%;
+    }
+  }
+  .hover-underline:hover {
+    text-decoration: underline;
+  }
+}
